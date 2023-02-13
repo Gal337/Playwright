@@ -15,5 +15,9 @@ public class FirstTestExample {
         page.navigate(link);
         //Retrieving the page title
         System.out.println(page.title());
+        //Closing the page
+        page.close();
+        //Closing the session
+        playwright.close();
     }
 }
