@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added Playwright dependancy to pom.xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added Playwright dependancy to pom.xml&#10;13/2/23 - Wrote an example for first test case in Playwright">
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
-      <workItem from="1676274842993" duration="6138000" />
+      <workItem from="1676274842993" duration="6453000" />
     </task>
     <task id="LOCAL-00001" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
       <created>1676285594250</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676287282112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="13/2/23 - Added Playwright dependancy to pom.xml&#10;13/2/23 - Wrote an example for first test case in Playwright">
+      <created>1676287910987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676287910987</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +103,7 @@
     <MESSAGE value="13/2/23 - Added Datadriven Framework and Playwright series&#10;13/2/23 - Removed Datadriven Framework and Playwright series" />
     <MESSAGE value="13/2/23 - Removed Datadriven Framework and Playwright series" />
     <MESSAGE value="13/2/23 - Added Playwright dependancy to pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added Playwright dependancy to pom.xml" />
+    <MESSAGE value="13/2/23 - Added Playwright dependancy to pom.xml&#10;13/2/23 - Wrote an example for first test case in Playwright" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added Playwright dependancy to pom.xml&#10;13/2/23 - Wrote an example for first test case in Playwright" />
   </component>
 </project>
