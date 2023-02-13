@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added new example for maximizing the browser window named MaximizingWindow">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchingBrowsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added example for running specific browser, I used MS Edge in this example">
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlaywrightNavigationMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LaunchingBrowsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LaunchingBrowsers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LaunchingBrowsers">
+  <component name="RunManager" selected="Application.PlaywrightNavigationMethods">
     <configuration name="FirstTestExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTestExample" />
       <module name="Playwright" />
@@ -66,8 +66,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlaywrightNavigationMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlaywrightNavigationMethods" />
+      <module name="Playwright" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlaywrightNavigationMethods" />
         <item itemvalue="Application.LaunchingBrowsers" />
         <item itemvalue="Application.MaximizingWindow" />
         <item itemvalue="Application.FirstTestExample" />
@@ -82,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
-      <workItem from="1676274842993" duration="11275000" />
+      <workItem from="1676274842993" duration="12124000" />
     </task>
     <task id="LOCAL-00001" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
       <created>1676285594250</created>
@@ -168,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676292651864</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="13/2/23 - Added example for running specific browser, I used MS Edge in this example">
+      <created>1676294924281</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676294924281</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +212,7 @@
     <MESSAGE value="13/2/23 - Added command to maximize browser window" />
     <MESSAGE value="13/2/23 - Added lines for getting screen resolution (width and height)" />
     <MESSAGE value="13/2/23 - Added new example for maximizing the browser window named MaximizingWindow" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added new example for maximizing the browser window named MaximizingWindow" />
+    <MESSAGE value="13/2/23 - Added example for running specific browser, I used MS Edge in this example" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added example for running specific browser, I used MS Edge in this example" />
   </component>
 </project>
