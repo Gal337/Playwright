@@ -4,179 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added Datadriven Framework and Playwright series">
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/runner.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/classes/META-INF/maven/com.w2a/DataDrivenFramework/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/classes/META-INF/maven/com.w2a/DataDrivenFramework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Add Customer Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Add Customer Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Bank Manager Login Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Bank Manager Login Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Open Account Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/Open Account Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/Data Driven Framework/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/junitreports/TEST-testcases.AddCustomerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/junitreports/TEST-testcases.BankManagerLoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/junitreports/TEST-testcases.OpenAccountTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/Add Customer Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/Bank Manager Login Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/Open Account Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/Data Driven Framework/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/base/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/excel/testdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/extentlisteners/ExtentListeners.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/extentlisteners/ExtentManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/logs/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/properties/OR.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/properties/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/rough/LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/rough/UserRegTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/runner/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testcases/AddCustomerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testcases/BankManagerLoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testcases/OpenAccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testdata/BankManagerSuite.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testdata/CustomerSuite.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/testdata/Suite.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/DataProviders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/DataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/ExcelReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/MonitoringMail$SMTPAuthenticator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/MonitoringMail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/target/test-classes/utilities/TestConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Add Customer Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Add Customer Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Bank Manager Login Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Bank Manager Login Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Login Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Login Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Open Account Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/Open Account Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/User Reg Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/User Reg Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Data Driven Framework/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Default suite/Default test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/Default suite/Default test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/junitreports/TEST-testcases.AddCustomerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/junitreports/TEST-testcases.BankManagerLoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/junitreports/TEST-testcases.LoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/junitreports/TEST-testcases.OpenAccountTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/junitreports/TEST-testcases.UserRegTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/Add Customer Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/Bank Manager Login Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/Login Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/Open Account Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/User Reg Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Data Driven Framework/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/Default test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/Default suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDrivenFramework/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/screenshot/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/screenshot/screenshot_element.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/CapturingVideos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/DownloadingFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/ExcelReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingBasicAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingCheckboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingKeyboardEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingShadowRootElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingTabsAndPopups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/HandlingWebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/LaunchBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/NonIncognitoWindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestDroppable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestEvaluateJS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestHandlingDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestHandlingLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestMouseOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestResizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TestSliders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/TraceViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/UploadMultipleFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/testcases/UploadingFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/java/utilities/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/excel/testdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/files/IMG-6873.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/files/IMG-6874.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/files/selenium.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/logs/applog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/src/test/resources/properties/locators.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/trace.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlaywrightSeries/videos/6c57c9e08cd5ebdcbc01601767db0197.webm" afterDir="false" />
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Removed Datadriven Framework and Playwright series">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
   }
@@ -211,8 +42,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
-      <workItem from="1676274842993" duration="3853000" />
+      <workItem from="1676274842993" duration="5505000" />
     </task>
+    <task id="LOCAL-00001" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
+      <created>1676285594250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676285594250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
+      <created>1676285690680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676285690680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +77,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13/2/23 - Added Datadriven Framework and Playwright series" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added Datadriven Framework and Playwright series" />
+    <MESSAGE value="13/2/23 - Added Datadriven Framework and Playwright series&#10;13/2/23 - Removed Datadriven Framework and Playwright series" />
+    <MESSAGE value="13/2/23 - Removed Datadriven Framework and Playwright series" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Removed Datadriven Framework and Playwright series" />
   </component>
 </project>
