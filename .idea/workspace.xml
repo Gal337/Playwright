@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)&#10;13/2/23 - Closing the session at the end">
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added command to maximize browser window">
       <change beforePath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
-      <workItem from="1676274842993" duration="7782000" />
+      <workItem from="1676274842993" duration="8161000" />
     </task>
     <task id="LOCAL-00001" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
       <created>1676285594250</created>
@@ -116,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676290884573</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)&#10;13/2/23 - Closing the session at the end">
+      <created>1676291148683</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291148683</updated>
+    </task>
+    <task id="LOCAL-00009" summary="13/2/23 - Added command to maximize browser window">
+      <created>1676291328132</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291328132</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +156,7 @@
     <MESSAGE value="13/2/23 - Added Playwright dependancy to pom.xml&#10;13/2/23 - Added comments for each step&#10;13/2/23 -" />
     <MESSAGE value="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)" />
     <MESSAGE value="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)&#10;13/2/23 - Closing the session at the end" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)&#10;13/2/23 - Closing the session at the end" />
+    <MESSAGE value="13/2/23 - Added command to maximize browser window" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added command to maximize browser window" />
   </component>
 </project>
