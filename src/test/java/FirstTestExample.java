@@ -17,7 +17,7 @@ public class FirstTestExample {
         //From Playwright instance we need to create browser //Adding new Browser object with headless mode set to false
         Browser browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
         //Command for maximizing the browser window
-        BrowserContext browserContext = browser.newContext(new Browser.NewContextOptions().setViewportSize(1920,1080));
+        BrowserContext browserContext = browser.newContext(new Browser.NewContextOptions().setViewportSize((int)width,(int)height));
         //From browser we are creating new page - for using maximized window we need to use the new browser context variable
         Page page = browserContext.newPage();
         //From the page we navigate to any URL of choice
