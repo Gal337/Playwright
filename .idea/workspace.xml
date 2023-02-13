@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added command to maximize browser window">
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTestExample.java" afterDir="false" />
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="13/2/23 - Added lines for getting screen resolution (width and height)">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaximizingWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MaximizingWindow">
     <configuration name="FirstTestExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTestExample" />
       <module name="Playwright" />
@@ -51,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximizingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximizingWindow" />
+      <module name="Playwright" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximizingWindow" />
         <item itemvalue="Application.FirstTestExample" />
       </list>
     </recent_temporary>
@@ -65,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
-      <workItem from="1676274842993" duration="8161000" />
+      <workItem from="1676274842993" duration="9298000" />
     </task>
     <task id="LOCAL-00001" summary="13/2/23 - Removed Datadriven Framework and Playwright series">
       <created>1676285594250</created>
@@ -130,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676291328132</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="13/2/23 - Added lines for getting screen resolution (width and height)">
+      <created>1676291724370</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291724370</updated>
+    </task>
+    <task id="LOCAL-00011" summary="13/2/23 - Added lines for getting screen resolution (width and height)">
+      <created>1676291804665</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291804665</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +179,7 @@
     <MESSAGE value="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)" />
     <MESSAGE value="13/2/23 - Added comments for each step of the first test&#10;13/2/23 - Printing the name of the page (headless mode)&#10;13/2/23 - Closing the session at the end" />
     <MESSAGE value="13/2/23 - Added command to maximize browser window" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added command to maximize browser window" />
+    <MESSAGE value="13/2/23 - Added lines for getting screen resolution (width and height)" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/2/23 - Added lines for getting screen resolution (width and height)" />
   </component>
 </project>
