@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="" />
+    <list default="true" id="e6fecc7b-7c29-4db7-9e9e-70769a6753d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/extentlisteners/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/extentlisteners/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/rough/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/rough/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/rough/UserRegTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/rough/UserRegTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/AddCustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/AddCustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/BankManagerLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/BankManagerLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/OpenAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/testcases/OpenAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/DataProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/DataProviders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/DataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/DataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/ExcelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/MonitoringMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/MonitoringMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/java/utilities/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/logs/applog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/logs/applog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/properties/OR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/properties/OR.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/properties/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/properties/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/runner/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataDrivenFramework/src/test/resources/runner/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LfvEOgR9UjS2su95Y8J5DEaDax" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,7 +46,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,8 +58,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676274841360</updated>
+      <workItem from="1676274842993" duration="3500000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
